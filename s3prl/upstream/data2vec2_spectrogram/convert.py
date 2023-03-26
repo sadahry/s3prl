@@ -3,7 +3,7 @@ from pathlib import Path
 import torch
 
 import s3prl
-from s3prl.upstream.data2vec.data2vec_model import (
+from s3prl.upstream.data2vec2_spectrogram.data2vec2_spectrogram_model import (
     Data2VecAudioConfig,
     Data2VecAudioModel,
 )
